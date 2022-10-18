@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>故障管理-实色备份</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.495978219">
+        <g filter="url(#filter-1)" id="故障管理-实色备份">
+            <g>
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="18" height="18"></rect>
+                <path d="M1,11 L17,11 L17,7 L1,7 L1,11 Z M4.99999999,8.50000001 L12,8.50000001 L12,9.50000001 L4.99999999,9.50000001 L4.99999999,8.50000001 Z M3.00000001,8.50000001 L4.00000001,8.50000001 L4.00000001,9.50000001 L3.00000001,9.50000001 L3.00000001,8.50000001 L3.00000001,8.50000001 Z M16,2 L2,2 C1.45,2 1,2.45 1,3 L1,6 L17,6 L17,3 C17,2.45 16.55,2 16,2 Z M4.00000001,4.5 L3.00000001,4.5 L3.00000001,3.5 L4.00000001,3.5 L4.00000001,4.5 Z M12,4.5 L4.99999999,4.5 L4.99999999,3.5 L12,3.5 L12,4.5 Z M1,15 C1,15.55 1.45,16 2,16 L16,16 C16.55,16 17,15.55 17,15 L17,12 L1,12 L1,15 Z M4.99999999,13.5 L12,13.5 L12,14.5 L4.99999999,14.5 L4.99999999,13.5 Z M3.00000001,13.5 L4.00000001,13.5 L4.00000001,14.5 L3.00000001,14.5 L3.00000001,13.5 L3.00000001,13.5 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>204首页备份</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.495978219">
+        <g filter="url(#filter-1)" id="204首页备份">
+            <g>
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="22" height="22"></rect>
+                <path d="M19.7484375,9.00625 L11.4125,3.0421875 C11.171875,2.8703125 10.8453125,2.8703125 10.621875,3.0421875 L2.234375,9.00625 C1.959375,9.1953125 2.096875,9.625 2.440625,9.625 L4.125,9.625 L4.125,18.90625 C4.125,19.0953125 4.2796875,19.25 4.46875,19.25 L8.59375,19.25 C8.7828125,19.25 8.9375,19.0953125 8.9375,18.90625 L8.9375,13.75 L13.0625,13.75 L13.0625,18.90625 C13.0625,19.0953125 13.2171875,19.25 13.40625,19.25 L17.53125,19.25 C17.7203125,19.25 17.875,19.0953125 17.875,18.90625 L17.875,9.625 L19.559375,9.625 C19.8859375,9.625 20.0234375,9.1953125 19.7484375,9.00625 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
