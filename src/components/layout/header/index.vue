@@ -1,6 +1,6 @@
 <template>
   <div class="system-info">
-    <div class="project-name">无人机光伏自主巡检系统</div>
+    <div class="project-name">{{ title }}</div>
     <div class="user-info">
       <a-space class="set-up" :size="size">
         <user-outlined style="font-size: 18px" />
@@ -26,7 +26,9 @@ import { useRoute } from "vue-router";
 const route = useRoute();
 const store = useStore();
 const size = ref(15);
-const current = ref<string[]>([]);
+const title = computed(() => {
+  return import.meta.env.VITE_PROGECT_TITLE;
+});
 const dropHandel: MenuProps["onClick"] = ({ key }) => {
   if (key === "2") {
     store.dispatch("login/logout");
